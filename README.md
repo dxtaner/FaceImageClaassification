@@ -8,6 +8,9 @@
 
 UTKFace dataset is a large-scale face dataset with long age span (range from 0 to 116 years old). The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity. The images cover large variation in pose, facial expression, illumination, occlusion, resolution, etc. This dataset could be used on a variety of tasks, e.g., face detection, age estimation, age progression/regression, landmark localization, etc. Some sample images are shown as following
 
+Link: https://www.kaggle.com/datasets/jangedoo/utkface-new
+Link: https://susanqq.github.io/UTKFace/
+
 ![image](https://user-images.githubusercontent.com/44675799/145047648-70b091a7-233c-446d-835b-cac733b2f9a0.png)
 
 ## Distribution of Gender, Age, and Race in the dataset
