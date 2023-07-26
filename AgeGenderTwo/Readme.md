@@ -1,6 +1,10 @@
 Real-Time Face Gender and Age Detection
 =======================================
 
+
+https://github.com/dxtaner/FaceImageClaassification/assets/44675799/08f8e9b2-3029-4986-b597-2317d1e3c076
+
+
 Requirements
 ------------
 
@@ -37,6 +41,10 @@ The script will display the webcam feed with the following annotations for each 
 *   A red bounding box around the face.
 *   The predicted gender (Erkek for male, Kadin for female) with its confidence score in percentage.
 *   The predicted age group (0-20, 20-65, 65++) with its confidence score in percentage.
+
+
+
+
 
 Termination
 -----------
