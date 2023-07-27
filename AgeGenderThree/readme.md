@@ -2,6 +2,7 @@
 
 This project utilizes computer vision and deep learning models to detect and classify gender and age from a video stream. The Python script uses OpenCV, cvlib, and pre-trained Keras models for gender and age classification. The detected faces are boxed with rectangles, and the predicted gender and age labels are displayed above the respective faces in real-time.
 
+
 ## Prerequisites
 
 Before running the script, ensure you have the following prerequisites installed:
