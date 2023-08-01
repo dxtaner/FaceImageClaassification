@@ -37,7 +37,7 @@ Usage
 2.  Replace the GenderModel3.h5 and AgeModel3.h5 files with your own trained models if desired. Make sure the model architectures and labels match the ones used in the script.
 3.  Execute the script using Python:
 
-python gender\_age\_detection.py
+python detectvideo.py
 
 The script will prompt you to enter a YouTube URL from which it will stream the video and perform real-time gender and age detection on detected faces.
 
